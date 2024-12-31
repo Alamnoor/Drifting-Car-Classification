@@ -111,3 +111,6 @@ before running the main.py script file.
   keywords={Training;Three-dimensional displays;Roads;Safety;Automobiles;Security;Videos;Anomaly Detection;3D CNN;Car Drifting;Aggressive Driving;Abnormal driving;Violent driving},
   doi={10.1109/SMART-TECH49988.2020.00056}}
 
+  ## Thanks
+  The code is modified based on the [[github_repository](https://github.com/JimLee1996/AVSS2019/tree/master/src)]
+
