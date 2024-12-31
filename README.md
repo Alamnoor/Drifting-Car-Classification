@@ -1,8 +1,6 @@
 # Drifting-Car-Classification
 ## Paper: Driftnet: Aggressive driving behaviour detection using 3d convolutional neural networks
 Abstract:Aggressive driving (i.e., car drifting) is a dangerous behavior that puts human safety and life into a significant risk. In this paper, we targeted this issue and proposed DriftNet, a deep learning model to detect aggressive driving behavior automatically from videos. It is built upon a DenseNet 3D backbone. DrifNet has proven the ability to learn both spatial and temporal features related to car drifting by only training it on a weakly labeled dataset of traffic videos. We also created a dataset of car drifting in the Saudi Arabian context. The validation accuracy of DrifNet on this dataset was 77.5%, outperforming other tested algorithms. To the best of our knowledge, this is the first work that addresses the detection of aggressive driving behavior from traffic videos.
-## Workflow 
-![image info](image.png)
 ## Pre-trained Weights
 [Weights for testing](link)
 ## Test with pre-trained weights
