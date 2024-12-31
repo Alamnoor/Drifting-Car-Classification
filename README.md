@@ -7,8 +7,8 @@ Abstract:Aggressive driving (i.e., car drifting) is a dangerous behavior that pu
 To test and validate the results please use the "weights in the above link" with the following code file "XXX". Moreover, the videos XXX.mp4 and XXX.mp4 can be used during testing. 
 ## Our results
 Please check the video files "XXX.mp4" for drafting of cars using a Driftnet model performance. Moreover, here are the evaluations in term of accuracy and loss.
-![image info](accuracy.png)
-![image info](loss.png)
+![image info](accuracy.gif)
+![image info](loss.gif)
 ## How to Prepare the Custom dataset:
 1. DataSet Path:
 a) Raw Data folder: .../Dataset of Anomaly
